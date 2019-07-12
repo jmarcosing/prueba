@@ -1,0 +1,742 @@
+{
+    "RECORDS": [
+        {
+            "id_tollbooth": "9",
+            "tollbooth_name": "16843776",
+            "tollbooth_description": "LIBRAMIENTO PEROTE",
+            "id_lane": "65",
+            "lane_name": "350",
+            "lane_description": "1 B",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "9",
+            "tollbooth_name": "16843776",
+            "tollbooth_description": "LIBRAMIENTO PEROTE",
+            "id_lane": "66",
+            "lane_name": "351",
+            "lane_description": "2 B",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "9",
+            "tollbooth_name": "16843776",
+            "tollbooth_description": "LIBRAMIENTO PEROTE",
+            "id_lane": "67",
+            "lane_name": "352",
+            "lane_description": "3 A",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "9",
+            "tollbooth_name": "16843776",
+            "tollbooth_description": "LIBRAMIENTO PEROTE",
+            "id_lane": "68",
+            "lane_name": "353",
+            "lane_description": "4 A",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "9",
+            "tollbooth_name": "16843776",
+            "tollbooth_description": "LIBRAMIENTO PEROTE",
+            "id_lane": "112",
+            "lane_name": "16843777",
+            "lane_description": "V401",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "9",
+            "tollbooth_name": "16843776",
+            "tollbooth_description": "LIBRAMIENTO PEROTE",
+            "id_lane": "113",
+            "lane_name": "16843778",
+            "lane_description": "V402",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "9",
+            "tollbooth_name": "16843776",
+            "tollbooth_description": "LIBRAMIENTO PEROTE",
+            "id_lane": "114",
+            "lane_name": "16843779",
+            "lane_description": "V403",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "9",
+            "tollbooth_name": "16843776",
+            "tollbooth_description": "LIBRAMIENTO PEROTE",
+            "id_lane": "115",
+            "lane_name": "16843780",
+            "lane_description": "V404",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "10",
+            "tollbooth_name": "16843008",
+            "tollbooth_description": "T1-AMOZOC",
+            "id_lane": "69",
+            "lane_name": "861",
+            "lane_description": "1 A",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "10",
+            "tollbooth_name": "16843008",
+            "tollbooth_description": "T1-AMOZOC",
+            "id_lane": "70",
+            "lane_name": "862",
+            "lane_description": "2 A",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "10",
+            "tollbooth_name": "16843008",
+            "tollbooth_description": "T1-AMOZOC",
+            "id_lane": "71",
+            "lane_name": "863",
+            "lane_description": "3 A",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "10",
+            "tollbooth_name": "16843008",
+            "tollbooth_description": "T1-AMOZOC",
+            "id_lane": "72",
+            "lane_name": "864",
+            "lane_description": "4 B",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "10",
+            "tollbooth_name": "16843008",
+            "tollbooth_description": "T1-AMOZOC",
+            "id_lane": "73",
+            "lane_name": "865",
+            "lane_description": "5 B",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "10",
+            "tollbooth_name": "16843008",
+            "tollbooth_description": "T1-AMOZOC",
+            "id_lane": "74",
+            "lane_name": "866",
+            "lane_description": "6 B",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "10",
+            "tollbooth_name": "16843008",
+            "tollbooth_description": "T1-AMOZOC",
+            "id_lane": "117",
+            "lane_name": "16843009",
+            "lane_description": "V101",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "10",
+            "tollbooth_name": "16843008",
+            "tollbooth_description": "T1-AMOZOC",
+            "id_lane": "118",
+            "lane_name": "16843010",
+            "lane_description": "V102",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "10",
+            "tollbooth_name": "16843008",
+            "tollbooth_description": "T1-AMOZOC",
+            "id_lane": "119",
+            "lane_name": "16843011",
+            "lane_description": "V103",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "10",
+            "tollbooth_name": "16843008",
+            "tollbooth_description": "T1-AMOZOC",
+            "id_lane": "120",
+            "lane_name": "16843012",
+            "lane_description": "V104",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "10",
+            "tollbooth_name": "16843008",
+            "tollbooth_description": "T1-AMOZOC",
+            "id_lane": "121",
+            "lane_name": "16843013",
+            "lane_description": "V105",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "10",
+            "tollbooth_name": "16843008",
+            "tollbooth_description": "T1-AMOZOC",
+            "id_lane": "122",
+            "lane_name": "16843014",
+            "lane_description": "V106",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "10",
+            "tollbooth_name": "16843008",
+            "tollbooth_description": "T1-AMOZOC",
+            "id_lane": "153",
+            "lane_name": "16843015",
+            "lane_description": "V107",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "10",
+            "tollbooth_name": "16843008",
+            "tollbooth_description": "T1-AMOZOC",
+            "id_lane": "154",
+            "lane_name": "16843016",
+            "lane_description": "V108",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "10",
+            "tollbooth_name": "16843008",
+            "tollbooth_description": "T1-AMOZOC",
+            "id_lane": "155",
+            "lane_name": "16843017",
+            "lane_description": "V109",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "10",
+            "tollbooth_name": "16843008",
+            "tollbooth_description": "T1-AMOZOC",
+            "id_lane": "156",
+            "lane_name": "16843018",
+            "lane_description": "V110",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "11",
+            "tollbooth_name": "16843264",
+            "tollbooth_description": "T2-CUAPIAXTLA",
+            "id_lane": "75",
+            "lane_name": "867",
+            "lane_description": "1 A",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "11",
+            "tollbooth_name": "16843264",
+            "tollbooth_description": "T2-CUAPIAXTLA",
+            "id_lane": "76",
+            "lane_name": "876",
+            "lane_description": "10 B",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "11",
+            "tollbooth_name": "16843264",
+            "tollbooth_description": "T2-CUAPIAXTLA",
+            "id_lane": "77",
+            "lane_name": "877",
+            "lane_description": "11 A",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "11",
+            "tollbooth_name": "16843264",
+            "tollbooth_description": "T2-CUAPIAXTLA",
+            "id_lane": "78",
+            "lane_name": "878",
+            "lane_description": "12 A",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "11",
+            "tollbooth_name": "16843264",
+            "tollbooth_description": "T2-CUAPIAXTLA",
+            "id_lane": "79",
+            "lane_name": "868",
+            "lane_description": "2 A",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "11",
+            "tollbooth_name": "16843264",
+            "tollbooth_description": "T2-CUAPIAXTLA",
+            "id_lane": "80",
+            "lane_name": "869",
+            "lane_description": "3 A",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "11",
+            "tollbooth_name": "16843264",
+            "tollbooth_description": "T2-CUAPIAXTLA",
+            "id_lane": "81",
+            "lane_name": "870",
+            "lane_description": "4 B",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "11",
+            "tollbooth_name": "16843264",
+            "tollbooth_description": "T2-CUAPIAXTLA",
+            "id_lane": "82",
+            "lane_name": "871",
+            "lane_description": "5 B",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "11",
+            "tollbooth_name": "16843264",
+            "tollbooth_description": "T2-CUAPIAXTLA",
+            "id_lane": "83",
+            "lane_name": "872",
+            "lane_description": "6 B",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "11",
+            "tollbooth_name": "16843264",
+            "tollbooth_description": "T2-CUAPIAXTLA",
+            "id_lane": "84",
+            "lane_name": "873",
+            "lane_description": "7 A",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "11",
+            "tollbooth_name": "16843264",
+            "tollbooth_description": "T2-CUAPIAXTLA",
+            "id_lane": "85",
+            "lane_name": "874",
+            "lane_description": "8 B",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "11",
+            "tollbooth_name": "16843264",
+            "tollbooth_description": "T2-CUAPIAXTLA",
+            "id_lane": "86",
+            "lane_name": "875",
+            "lane_description": "9 B",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "11",
+            "tollbooth_name": "16843264",
+            "tollbooth_description": "T2-CUAPIAXTLA",
+            "id_lane": "127",
+            "lane_name": "16843265",
+            "lane_description": "V201",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "11",
+            "tollbooth_name": "16843264",
+            "tollbooth_description": "T2-CUAPIAXTLA",
+            "id_lane": "128",
+            "lane_name": "16843266",
+            "lane_description": "V202",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "11",
+            "tollbooth_name": "16843264",
+            "tollbooth_description": "T2-CUAPIAXTLA",
+            "id_lane": "129",
+            "lane_name": "16843267",
+            "lane_description": "V203",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "11",
+            "tollbooth_name": "16843264",
+            "tollbooth_description": "T2-CUAPIAXTLA",
+            "id_lane": "130",
+            "lane_name": "16843268",
+            "lane_description": "V204",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "11",
+            "tollbooth_name": "16843264",
+            "tollbooth_description": "T2-CUAPIAXTLA",
+            "id_lane": "131",
+            "lane_name": "16843269",
+            "lane_description": "V205",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "11",
+            "tollbooth_name": "16843264",
+            "tollbooth_description": "T2-CUAPIAXTLA",
+            "id_lane": "132",
+            "lane_name": "16843270",
+            "lane_description": "V206",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "11",
+            "tollbooth_name": "16843264",
+            "tollbooth_description": "T2-CUAPIAXTLA",
+            "id_lane": "133",
+            "lane_name": "16843271",
+            "lane_description": "V207",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "11",
+            "tollbooth_name": "16843264",
+            "tollbooth_description": "T2-CUAPIAXTLA",
+            "id_lane": "134",
+            "lane_name": "16843272",
+            "lane_description": "V208",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "11",
+            "tollbooth_name": "16843264",
+            "tollbooth_description": "T2-CUAPIAXTLA",
+            "id_lane": "135",
+            "lane_name": "16843273",
+            "lane_description": "V209",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "11",
+            "tollbooth_name": "16843264",
+            "tollbooth_description": "T2-CUAPIAXTLA",
+            "id_lane": "136",
+            "lane_name": "16843274",
+            "lane_description": "V210",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "11",
+            "tollbooth_name": "16843264",
+            "tollbooth_description": "T2-CUAPIAXTLA",
+            "id_lane": "137",
+            "lane_name": "16843275",
+            "lane_description": "V211",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "11",
+            "tollbooth_name": "16843264",
+            "tollbooth_description": "T2-CUAPIAXTLA",
+            "id_lane": "138",
+            "lane_name": "16843276",
+            "lane_description": "V212",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "11",
+            "tollbooth_name": "16843264",
+            "tollbooth_description": "T2-CUAPIAXTLA",
+            "id_lane": "157",
+            "lane_name": "16843277",
+            "lane_description": "V213",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "11",
+            "tollbooth_name": "16843264",
+            "tollbooth_description": "T2-CUAPIAXTLA",
+            "id_lane": "158",
+            "lane_name": "16843278",
+            "lane_description": "V214",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "11",
+            "tollbooth_name": "16843264",
+            "tollbooth_description": "T2-CUAPIAXTLA",
+            "id_lane": "159",
+            "lane_name": "16843279",
+            "lane_description": "V215",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "11",
+            "tollbooth_name": "16843264",
+            "tollbooth_description": "T2-CUAPIAXTLA",
+            "id_lane": "160",
+            "lane_name": "16843280",
+            "lane_description": "V216",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "12",
+            "tollbooth_name": "16843520",
+            "tollbooth_description": "T3-CANTONA",
+            "id_lane": "87",
+            "lane_name": "884",
+            "lane_description": "1 A",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "12",
+            "tollbooth_name": "16843520",
+            "tollbooth_description": "T3-CANTONA",
+            "id_lane": "88",
+            "lane_name": "887",
+            "lane_description": "10 B",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "12",
+            "tollbooth_name": "16843520",
+            "tollbooth_description": "T3-CANTONA",
+            "id_lane": "89",
+            "lane_name": "883",
+            "lane_description": "2 A",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "12",
+            "tollbooth_name": "16843520",
+            "tollbooth_description": "T3-CANTONA",
+            "id_lane": "90",
+            "lane_name": "882",
+            "lane_description": "3 A",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "12",
+            "tollbooth_name": "16843520",
+            "tollbooth_description": "T3-CANTONA",
+            "id_lane": "91",
+            "lane_name": "881",
+            "lane_description": "4 B",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "12",
+            "tollbooth_name": "16843520",
+            "tollbooth_description": "T3-CANTONA",
+            "id_lane": "92",
+            "lane_name": "880",
+            "lane_description": "5 B",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "12",
+            "tollbooth_name": "16843520",
+            "tollbooth_description": "T3-CANTONA",
+            "id_lane": "93",
+            "lane_name": "879",
+            "lane_description": "6 B",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "12",
+            "tollbooth_name": "16843520",
+            "tollbooth_description": "T3-CANTONA",
+            "id_lane": "94",
+            "lane_name": "885",
+            "lane_description": "7 A",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "12",
+            "tollbooth_name": "16843520",
+            "tollbooth_description": "T3-CANTONA",
+            "id_lane": "95",
+            "lane_name": "888",
+            "lane_description": "8 B",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "12",
+            "tollbooth_name": "16843520",
+            "tollbooth_description": "T3-CANTONA",
+            "id_lane": "96",
+            "lane_name": "886",
+            "lane_description": "9 A",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "12",
+            "tollbooth_name": "16843520",
+            "tollbooth_description": "T3-CANTONA",
+            "id_lane": "139",
+            "lane_name": "16843521",
+            "lane_description": "V301",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "12",
+            "tollbooth_name": "16843520",
+            "tollbooth_description": "T3-CANTONA",
+            "id_lane": "140",
+            "lane_name": "16843522",
+            "lane_description": "V302",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "12",
+            "tollbooth_name": "16843520",
+            "tollbooth_description": "T3-CANTONA",
+            "id_lane": "141",
+            "lane_name": "16843523",
+            "lane_description": "V303",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "12",
+            "tollbooth_name": "16843520",
+            "tollbooth_description": "T3-CANTONA",
+            "id_lane": "142",
+            "lane_name": "16843524",
+            "lane_description": "V304",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "12",
+            "tollbooth_name": "16843520",
+            "tollbooth_description": "T3-CANTONA",
+            "id_lane": "143",
+            "lane_name": "16843525",
+            "lane_description": "V305",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "12",
+            "tollbooth_name": "16843520",
+            "tollbooth_description": "T3-CANTONA",
+            "id_lane": "144",
+            "lane_name": "16843526",
+            "lane_description": "V306",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "12",
+            "tollbooth_name": "16843520",
+            "tollbooth_description": "T3-CANTONA",
+            "id_lane": "145",
+            "lane_name": "16843527",
+            "lane_description": "V307",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "12",
+            "tollbooth_name": "16843520",
+            "tollbooth_description": "T3-CANTONA",
+            "id_lane": "146",
+            "lane_name": "16843528",
+            "lane_description": "V308",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "12",
+            "tollbooth_name": "16843520",
+            "tollbooth_description": "T3-CANTONA",
+            "id_lane": "147",
+            "lane_name": "16843529",
+            "lane_description": "V309",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "12",
+            "tollbooth_name": "16843520",
+            "tollbooth_description": "T3-CANTONA",
+            "id_lane": "148",
+            "lane_name": "16843530",
+            "lane_description": "V310",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "12",
+            "tollbooth_name": "16843520",
+            "tollbooth_description": "T3-CANTONA",
+            "id_lane": "161",
+            "lane_name": "16843531",
+            "lane_description": "V311",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "12",
+            "tollbooth_name": "16843520",
+            "tollbooth_description": "T3-CANTONA",
+            "id_lane": "162",
+            "lane_name": "16843532",
+            "lane_description": "V312",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "13",
+            "tollbooth_name": "16844032",
+            "tollbooth_description": "T5-AUDI",
+            "id_lane": "97",
+            "lane_name": "890",
+            "lane_description": "1 A",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "13",
+            "tollbooth_name": "16844032",
+            "tollbooth_description": "T5-AUDI",
+            "id_lane": "98",
+            "lane_name": "891",
+            "lane_description": "2 A",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "13",
+            "tollbooth_name": "16844032",
+            "tollbooth_description": "T5-AUDI",
+            "id_lane": "99",
+            "lane_name": "892",
+            "lane_description": "3 B",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "13",
+            "tollbooth_name": "16844032",
+            "tollbooth_description": "T5-AUDI",
+            "id_lane": "100",
+            "lane_name": "893",
+            "lane_description": "4 B",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "13",
+            "tollbooth_name": "16844032",
+            "tollbooth_description": "T5-AUDI",
+            "id_lane": "149",
+            "lane_name": "16844033",
+            "lane_description": "V501",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "13",
+            "tollbooth_name": "16844032",
+            "tollbooth_description": "T5-AUDI",
+            "id_lane": "150",
+            "lane_name": "16844034",
+            "lane_description": "V502",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "13",
+            "tollbooth_name": "16844032",
+            "tollbooth_description": "T5-AUDI",
+            "id_lane": "151",
+            "lane_name": "16844035",
+            "lane_description": "V503",
+            "lane_enabled": "1"
+        },
+        {
+            "id_tollbooth": "13",
+            "tollbooth_name": "16844032",
+            "tollbooth_description": "T5-AUDI",
+            "id_lane": "152",
+            "lane_name": "16844036",
+            "lane_description": "V504",
+            "lane_enabled": "1"
+        }
+    ]
+}
